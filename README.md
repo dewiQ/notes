@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version 3.4.5
 
-Things you may want to cover:
+* Rails version 8.0.2
 
-* Ruby version
+* Using WSL Ubuntu 24.04.1 LTS
 
-* System dependencies
+* Database SQLite 3
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Main page in http://localhost:3000/projects
